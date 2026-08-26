@@ -31,9 +31,11 @@ jobs:
           # Optional — without these the Adzuna adapter is skipped gracefully.
           ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
           ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
-          # Optional overrides:
-          # JOB_QUERIES: 'product manager,AI engineer'
-          # JOB_FRESH_DAYS: '14'
+          # Talent acquisition roles instead of the upstream product-manager defaults.
+          JOB_QUERIES: 'talent acquisition,technical recruiter,recruiter,recruiting,recruitment,sourcer,talent sourcer,talent partner,head of talent,people partner,people operations,headhunter'
+          # Widened from 14: TA roles are thin in the free sources, so the pool
+          # needs a longer window to accumulate anything worth reading.
+          JOB_FRESH_DAYS: '30'
         run: node scripts/fetch-jobs.mjs
 
       - name: Commit updated jobs.json
