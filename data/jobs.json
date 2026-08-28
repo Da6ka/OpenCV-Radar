@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-08-27T16:32:36.893Z",
- "count": 19,
+ "updated_at": "2026-08-28T17:27:41.410Z",
+ "count": 35,
  "sources": {
   "remotive": {
-   "fetched": 18,
-   "ms": 453
+   "fetched": 19,
+   "ms": 497
   },
   "adzuna": {
    "fetched": 0,
@@ -12,18 +12,297 @@
   },
   "hh": {
    "fetched": 0,
-   "ms": 4462
+   "ms": 4604
   },
   "remoteok": {
-   "fetched": 99,
-   "ms": 492
+   "fetched": 100,
+   "ms": 469
   },
   "arbeitnow": {
-   "fetched": 643,
-   "ms": 405
+   "fetched": 611,
+   "ms": 365
   }
  },
  "jobs": [
+  {
+   "id": "6f82e39a32b2c157",
+   "title": "Werkstudent People & Operations (m/w/d)",
+   "company": "Parklane Capital",
+   "location": "Hamburg",
+   "remote": false,
+   "office": true,
+   "relocate": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/parklane-capital/werkstudent-people-operations-hamburg-69867",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-28",
+   "salary": null,
+   "description": "Standort: Hamburg, vor Ort\n\n Arbeitszeit: 15–20 Stunden pro Woche\n\n Vergütung: 18,50 EUR die Stunde\n\n Start: Nach Vereinbarung\n\n Du suchst neben deinem Studium mehr als nur einen Nebenjob? Du möchtest Verantwortung übernehmen, eigene Ideen einbringen und erleben, wie eine inhabergeführte M&#x26;A-Boutique arbeitet? Dann sollten wir uns kennenlernen.\n\n Wir sind ein engagiertes, unternehmerisch denkendes Team mit kurzen Entscheidungswegen und einer offenen, wertschätzenden Arbeitskultur. Bei uns arbeitest du direkt mit der Geschäftsführung sowie erfahrenen Kolleginnen und Kollegen zusammen und gestaltest unseren Arbeitsalltag aktiv mit.\n\n Aufgaben\n\n Deine Aufgaben \n\n \n Du unterstützt uns im Recruiting und Bewerbermanagement und begleitest den gesamten Bewerbungsprozess\n\n Du organisierst das Onboarding neuer Kolleginnen und Kollegen und sorgst dafür, dass sie sich von Anfang an willkommen fühlen\n\n Du bringst dich bei internen HR-Themen ein und gestaltest unsere Teamkultur aktiv mit\n\n Du planst und organisierst Team- und Firmen-Events, Workshops u. v. m.\n\n Du bist Ansprechperson für organisatorische Fragen und behältst den Büroalltag im Blick\n\n Du unterstützt uns in der vorbereitenden Buchhaltung: vom Rechnungsein- und -ausgang über die Belegaufbereitung bis zur Zusammenarbeit mit unserer Steuerberatung\n\n Du treibst interne Projekte mit voran und übernimmst dabei Recherchen, Analysen sowie die Aufbereitung von Unterlagen und Auswertungen\n\n \n Qualifikation\n\n Das bringst du mit \n\n \n Du bist eingeschriebene Studentin oder eingeschriebener Student mit hervorragenden Noten im Abitur und an der Uni\n\n Dein Studiengang ist für uns zweitrangig – wichtiger sind deine Persönlichkeit und deine Arbeitsweise\n\n Du arbeitest strukturiert, zuverlässig und selbstständig\n\n Du denkst sehr analytisch, arbeitest dich gerne in neue Themen ein und behältst auch bei vielen unterschiedlichen Aufgaben den Überblick\n\n Du kommunizierst offen und freundlich, hast Freude am Umgang mit Menschen und eine ausgeprägte Serviceorientierung\n\n Du übernimmst gerne Verantwortung, denkst mit und packst Dinge eigenständig an\n\n Du bist verhandlungssicher in Deutsch und Englisch und sicher im Umgang mit MS Office\n\n Du hast eine Reststudienzeit von mind. 12 Monaten\n\n \n Benefits\n\n Das erwartet dich bei uns \n\n \n Ein großartiges Büro in Hamburg im Streit’s Haus mit Blick auf die Alster\n\n Direkte Zusammenarbeit mit der Geschäftsführung und erfahrenen Kolleginnen und Kollegen\n\n Viel Eigenverantwortung und reichlich Raum für deine Ideen\n\n Faire Vergütung sowie flexible Arbeitszeiten, verteilt auf 3 bis4 Arbeitstage vor Ort in unserem Büro\n\n Firmenfitness mit Arbeitgeberzuschuss und Zugang zu Fitnessstudios, Schwimmbädern und Kursen in ganz Deutschland\n\n Frischer Kaffee, Getränke, Obst, Snacks und eine angenehme Arbeitsatmosphäre\n\n \n Klingt nach dir? \n\n Dann schick uns einfach deinen Lebenslauf inkl. Zeugnissen und ein paar kurze Zeilen dazu, wer du bist, was dich auszeichnet und warum du zu uns passt. Ein aufwendiges Anschreiben brauchst du nicht.\n\n Wir freuen uns darauf, dich kennenzulernen!\n\n Find more English Speaking Jobs in Germany on Arbeitnow",
+   "tags": [
+    "Mergers & Acquisitions"
+   ]
+  },
+  {
+   "id": "e5b7966fb62d2495",
+   "title": "Werkstudent:in (m/w/d) Recruiting & Employer Branding",
+   "company": "Empit",
+   "location": "Hamburg",
+   "remote": false,
+   "office": true,
+   "relocate": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/empit/werkstudentin-recruiting-employer-branding-hamburg-240420",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-28",
+   "salary": null,
+   "description": "Deine Mission Recruiting von Anfang bis Ende: Du bist mittendrin statt nur dabei – du sichtest Bewerbungen, koordinierst Interviews und begleitest Kandidat:innen von der ersten Nachricht bis zum Onboarding. Du erlebst den kompletten Prozess und gestaltest die Candidate Experience aktiv mit.\n Employer Branding zum Mitgestalten: Du hast Bock, EMPIT als Arbeitgebermarke sichtbarer zu machen? Bei uns wirkst du aktiv mit – ob beim Texten unserer Stellenanzeigen, der Pflege unseres Auftritts auf Kununu oder der Gestaltung eines Onboardings, das neuen Kolleg:innen einen richtig guten Start ermöglicht.\n Team Events, die in Erinnerung bleiben: Du organisierst mit – von regelmäßigen Team-Lunches bis hin zu unserem Sommerfest, eines der Highlights im EMPIT-Jahr. Du sorgst dafür, dass bei uns nicht nur gearbeitet, sondern auch gefeiert wird.\n Echtes Teammitglied statt Zuarbeiter: Du arbeitest eng mit unserem HR-Team zusammen und bist von Tag eins an fester Bestandteil des Teams.\n Eigene Themen, eigene Verantwortung: Du bekommst eigene Projekte, für die DU zuständig bist. Kein Zuarbeiten, sondern echtes Ownership.\n Übernahme nach dem Studium: Wenn beidseitig alles passt, besteht die Möglichkeit, nach deinem Abschluss fest bei uns einzusteigen.\n \n\n Was Du bei uns bekommst Urban Sports Club und EGYM Wellpass : Durch unseren Zuschuss kannst du kostengünstig Sport in ganz Deutschland treiben.\n Corporate Benefits: Nutze kostenfrei zahlreiche Rabatte bei Partnern aus verschiedenen Branchen, um von attraktiven Angeboten zu profitieren.\n Snacks und Mittagessen : Unser Büro ist mit einer Vielzahl an Snacks ausgestattet und wir laden dich regelmäßig zu kostenfreien Mittagessen ein.\n Teamevents und Firmenfeiern : Freue dich auf spannende Teamevents und Firmenfeiern.\n Entwicklungsmöglichkeiten : Wir fördern dein fachliches und berufliches Wachstum mit vielfältigen Chancen.\n Dynamisches Arbeitsumfeld: Erlebe ein agiles, teamorientiertes Klima mit offenen Kommunikationsstrukturen, in dem du von Tag eins an direkten Einfluss auf Projekte nehmen und aktiv die Zukunft des Unternehmens mitgestalten kannst.\n Raum für deine Ideen : Deine Ideen sind bei uns nicht nur willkommen, sondern gewünscht – bringe dich ein und gestalte die Zukunft von EMPIT aktiv mit.\n \n\n Das bringst Du mit Du studierst (Bachelor oder Master) – z. B. Psychologie, Kommunikations- oder Personalmanagement oder etwas Vergleichbares.\n Erste Berührungspunkte mit Recruiting oder Employer Branding – ob durch Praktika, andere Werkstudierendenjobs oder Projekte.\n Ein gutes Gespür für Sprache und Kommunikation – du weißt, wie man unterschiedliche Zielgruppen abholt.\n Eine strukturierte, zuverlässige Arbeitsweise – auch wenn mal mehrere Bälle gleichzeitig in der Luft sind.\n Organisationstalent und Spaß daran, auch mal ein Event auf die Beine zu stellen.\n Kommunikationsstärke im Umgang mit unterschiedlichsten Menschen.\n Gute Deutsch- und Englischkenntnisse in Wort und Schrift.\n Nice to have: Erfahrung mit HR-Tools (z. B. Personio).\n \n Find more English Speaking Jobs in Germany on Arbeitnow",
+   "tags": [
+    "HR",
+    "Personalwesen",
+    "Recruiting"
+   ]
+  },
+  {
+   "id": "0e4ed6ba74b371fa",
+   "title": "Recruiter (m/w/d) - Headhunter (w/m/d) - nur für unser Unternehmen - Remote",
+   "company": "Hafidi-Bürodienstleistung",
+   "location": "Konz",
+   "remote": true,
+   "office": true,
+   "relocate": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/hafidi-burodienstleistung/recruiter-konz-60512",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-28",
+   "salary": null,
+   "description": "Wir (J.Poppe&#x26; Partner) sind in der Unternehmerberatung tätig. Unsere Aufgabe ist es, die Einnahmen und Ausgaben gewinnbringend zu optimieren. Dies machen wir für kleine und mittelständische Unternehmen, zusätzlich bieten wir das auch deren privaten Haushalten an und stehen für Innovation, Qualität und nachhaltige Partnerschaften. Unsere Klienten sind Unternehmen und Privatpersonen, die auf unsere maßgeschneiderten Lösungen vertrauen.\n\n Sie suchen ausschließlich für unser Unternehmen (J.Poppe &#x26;Partner) Personal. Für die bestehenden Büros und digitalen Büros (Remote). Wir sind keine Zeitarbeitsfirma o.ä. und verleihen Personal.\n\n Aufgaben\n\n \n Offene Stellen mit perfekten Kandidaten besetzen\n\n Auseinandersetzung mit Personalmarketing, Personalentwicklung\n\n Formulieren von Stellenanzeigen,\n\n Pre-Screening\n\n Führung von Vorstellungsgesprächen\n\n Onlineausschreibungen\n\n Social-Media-Recruiting\n\n \n Qualifikation\n\n \n Sie dürfen auch Quereinsteiger sein.\n\n Wichtig: Sie haben ein Wohnsitz oder Zweitwohnsitz in Deutschland\n\n Sie haben eine funktionsfähige Internetverbindung (30 Mbit).\n\n \n Benefits\n\n \n Ab 8 – 15 Std. / Woche\n\n monatlicher Verdienst 530 €uro – 1.650 €uro je nach Qualifikation\n\n Teilzeit, Vollzeit und Selbstständig (z.B.: Virtuelle Assistenz) möglich und das Einkommen wird entsprechend angepasst.\n\n \n Wenn Sie Interesse haben, schreiben Sie mich gerne an.\n\n Find more English Speaking Jobs in Germany on Arbeitnow",
+   "tags": [
+    "Remote",
+    "Recruitment and Selection"
+   ]
+  },
+  {
+   "id": "05cbc289704b409a",
+   "title": "Talent Acquisition Specialist at United-Media",
+   "company": "United Media",
+   "location": "London, England, United Kingdom",
+   "remote": false,
+   "office": true,
+   "relocate": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/talent-acquisition-specialist-at-united-media-london-458673",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-28",
+   "salary": null,
+   "description": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? Are you curious or passionate about people? If so, you might be our next Talent Acquisition Specialist.\n\n \n\n About us \n\n United Media focuses on building large scale industry media and conferences products in sectors such as insurance, HR, private equity, retail, etc. As of today, we have organically launched 8 media companies and acquired one. (Insurtech Insights, Presidents Summit, Private Equity Insights, HRtechX, CFO insights, Retail Insights and SetSales)\n\n \n\n What we offer you \n\n As our Talent Acquisition Specialist, you get the unique opportunity to be a key player in building the greatest brand within Insurtech. By providing you with the ownership of our recruiting, we want to constantly push you out of your comfort zone ensuring you become an expert. You'll be working out of our HQ in London and to ensure a never-ending growth curve, we provide you with:\n\n \n An opportunity to get operational experience in a start-up where both your work and the results are highly tangible and matter to the business\n\n A chance to work closely with the CEO on our recruiting strategy\n\n Unlimited growth potential in our company - we strongly believe in and we have a track record of promoting internally\n\n 12-month internship with the possibility of a full-time role either in recruitment or other departments of the company.\n\n \n \n\n Watch this video with our founder to learn more about our thoughts on recruiting.\n\n \n\n Your Responsibilities \n\n Your responsibilities will vary; however, some of them will be to:\n\n \n Coordinate with the CEO all the weekly strategy sessions and lunch meetings with candidates.\n\n Identify and engage potential candidates for outreach.\n\n Take responsibility for the first stage of the recruitment process. (CV Screening)\n\n Take ownership of the Recruitment Software, Greenhouse:\n\n \n Renew and update job postings via the platform.\n\n Update the job description to attract more candidates\n\n Ensure synchronization between FirstMind and Greenhouse.\n\n \n You will report to the senior recruitment and to the CEO\n\n \n \n\n What we expect from you \n\n We do expect you to:\n\n \n Have acquired a bachelor's or master's degree with outstanding results\n\n Have a UK work permit\n\n Have a natural ability to make people feel comfortable around you\n\n Take ownership of everything you do, be proactive and follow through on commitments\n\n Desire to get to know other people and learn, develop, and push yourself. \n\n No experience is needed. If need be, we will teach you everything you need to know about recruiting.\n\n \n \n\n Start date \n\n Flexible\n\n The role is onsite, Monday to Friday, based in our offices at Buckingham Gate. It is essential we work at a fast pace and collaborate in person to create market-leading, unmatched events throughout the calendar year. It will be great to have you as part of our team.\n Find Jobs in United Kingdom on Arbeitnow",
+   "tags": []
+  },
+  {
+   "id": "25a5f5503d3b462e",
+   "title": "People Business Partner Tech (m/w/d)",
+   "company": "GALVANY",
+   "location": "Berlin",
+   "remote": false,
+   "office": true,
+   "relocate": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/galvany/people-business-partner-tech-berlin-341929",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-28",
+   "salary": null,
+   "description": "Bei GALVANY ist es unser Ziel, klimaneutrales Wohnen für alle zur Realität zu machen. Wir setzen auf Umsetzung und entwickeln konkrete, smarte Lösungen, indem wir Wärmepumpen, Batteriespeicher und Smart Metering einfach zugänglich, zuverlässig und bezahlbar machen.\n Wir sind ein profitables Greentech-Startup und glauben, dass nachhaltiger Impact und langfristiges Wachstum nur auf Basis eines gesunden Geschäftsmodells möglich sind. Getrieben von Kundennutzen, Klarheit und Verantwortung stehen wir für hochwertige Heizlösungen und ein Arbeitsumfeld, in dem Menschen Verantwortung übernehmen und nachhaltigen Mehrwert schaffen.\n Als People Business Partner Tech (m/w/d) bei GALVANY gestaltest du unsere People-Funktion von Grund auf mit und prägst, wie wir als Unternehmen wachsen, führen und zusammenarbeiten.\n \n Deine Aufgaben: \n Talent Acquisition: Eigenständige End-to-End-Rekrutierung für alle Rollen in den zugeordneten Teams; Entwicklung geeigneter Suchstrategien; Coaching der Hiring Manager für eine exzellente Candidate Experience.\n\n Ansprechpartner:in: Beratung und Unterstützung aller Mitarbeitenden der zugeordneten Teams; Begleitung von Konfliktlösungen und Feedback-Gesprächen; Bearbeitung von Mitarbeiteranliegen und -beschwerden.\n\n Leadership Support: Vertrauensvolle Partnerschaft mit allen Leads des Verantwortungsbereichs; proaktives Feedback zu People-KPIs (Produktivität, Engagement, Abwesenheit, Retention, Performance-Zyklen); Entwicklung und Durchführung von Trainings für Führungskräfte.\n\n People Operations: Coaching und Unterstützung der Nutzer:innen von HR-Systemen und -Prozessen; administrativer Support zur schnellen Lösung von Problemen; Mitarbeit an der Weiterentwicklung von HR-Richtlinien und -Praktiken.\n\n Administration: Pflege von Mitarbeiterdaten (Personalakte, HRIS, Zeugnisse etc.); Verwaltung von Vertragsänderungen; Kontrolle von Abwesenheitsregelungen und -konten.\n\n Payroll: Verantwortung für alle Payroll-Prozesse in unserem HRIS Personio.\n\n People Analytics: Verknüpfung von Feedback- und People-Daten zur Identifikation von Handlungsfeldern; Entwicklung konkreter Empfehlungen zu Fluktuation, Retention und Engagement.\n\n Change Management: Aktive Begleitung von Veränderungsprozessen als positive Kraft für Teams und Führungskräfte.\n\n \n Dein Profil: \n Abgeschlossenes Studium in Wirtschafts- oder Sozialwissenschaften, Psychologie oder vergleichbare Praxiserfahrung.\n\n Mindestens drei Jahre HR-Erfahrung in einem Start-up oder Scale-up (inkl. Praktika).\n\n Erfahrung im Tech Hiring.\n\n Kenntnisse im deutschen Arbeitsrecht, in Payroll-Prozessen und Employee Lifecycle Management.\n\n Sehr gute Kommunikationsfähigkeiten auf Deutsch und Englisch.\n \n\n Zusätzlich sind uns folgende Fähigkeiten und Eigenschaften wichtig: \n Charismatic Communicator – Du beobachtest und empathisierst mit anderen und passt deine Kommunikation so an, dass du Menschen für dich gewinnst. Komplexe Themen vermittelst du verschiedenen Zielgruppen klar, präzise und kompetent.\n\n Expert Operator – Du managst mehrere Anfragen gleichzeitig und priorisierst souverän. Du arbeitest strukturiert und setzt Effizienz und Effektivität in deinem Alltag konsequent um.\n\n Resourceful – Du denkst schnell, bist immer vorbereitet und findest kreative Lösungen – auch wenn die Ausgangslage schwierig ist. Du stellst die richtigen Fragen und gehst Themen gerne in die Tiefe.\n\n Resilience – Du arbeitest in volumenstarken, schnellen Umgebungen, ohne an Qualität einzubüßen. Wenn Hires ausfallen oder der Workload steigt, bleibst du fokussiert und hältst die Standards hoch.\n\n Data-Driven Problem Solver – Du suchst aktiv nach qualitativen und quantitativen Daten, entwickelst Hypothesen und triffst Entscheidungen, die du misst und kontinuierlich verbesserst.\n\n Growth-Oriented – Du bist vielleicht noch junior – aber leidenschaftlich daran interessiert, dich weiterzuentwickeln. Du suchst aktiv nach Lernmöglichkeiten, nimmst Feedback an und reflektierst dich selbst.\n\n \n Benefits: \n Werde Teil eines schnell wachsenden und profitablen Climate-Tech-Startups\n\n Bonusmodell: Du partizipierst an jeder Rolle die du besetzt\n\n Unser lebendiges Office ist das Herz unserer Kultur und fördert Zusammenarbeit und Austausch vor Ort\n\n Hybrides Arbeitsmodell mit anteiligem Homeoffice nach der Einarbeitung\n\n Individuelle Benefits, abgestimmt auf deine Bedürfnisse, z. B. Sportmitgliedschaften, ÖPNV-Ticket oder Learning Budget\n\n Find Jobs in Germany on Arbeitnow",
+   "tags": [
+    "Corporate Functions"
+   ]
+  },
+  {
+   "id": "3aef1f41ef993758",
+   "title": "Talent Acquisition Associate at United Media",
+   "company": "United Media",
+   "location": "London, England, United Kingdom",
+   "remote": false,
+   "office": true,
+   "relocate": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/talent-acquisition-associate-at-united-media-london-498350",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-28",
+   "salary": null,
+   "description": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? And are you curious or passionate about people? If so, you might be our next Talent Acquisition Associate. \n\n About us \n\n United Media focuses on building large scale industry media and conferences products in sectors such as insurance, HR, private equity, retail, etc. As of today, we have organically launched 8 media companies and acquired one. (Insurtech Insights, Presidents Summit, Private Equity Insights, HRtechX, CFO insights, Retail Insights and SetSales) \n\n What we offer you \n\n As our Talent Acquisition Associate, you get the unique opportunity to be a key player in building the greatest brand within Insurtech. By providing you with the ownership of our recruiting, we want to constantly push you out of your comfort zone ensuring you become an expert. You'll be working out of our HQ in London and to ensure a never-ending growth curve, we provide you with: \n\n \n An opportunity for getting operational experience in a start-up where both your work and the results are highly tangible and matters to the business \n\n A chance to work closely together with the CEO on our recruiting strategy \n\n Unlimited growth potential in our company - we strongly believe in and we have a track record of promoting internally \n\n \n Watch this video with our founder to learn more about our thoughts on recruiting. \n\n Your Responsibilities \n\n Your responsibilities will vary; however, some of them will be to: \n\n \n Take ownership of all aspects of the recruitment process, including; role profiling, candidate sourcing, CV screening, assessment planning, creating interview scripts and conducting interviews \n\n Build a strong employer brand and attracting both the obvious talents (what we call shouting talents) as well as the more covert talents (what we call whispering talents) \n\n Own the execution of further developing and automating our recruiting processes \n\n Improve our onboarding process in close collaboration with management \n\n \n What we expect from you \n\n We expect that you take ownership of everything you do, are proactive and follow through on commitments. You possess an unparalleled work ethic with a high sense of urgency. You have a relentless drive and desire to be the very best at what you do. Moreover, you are humble and you share our passion for building and executing new businesses. While we have no preferences as to whether you have a background in HR, marketing, sales, or something completely different, we expect that you have an innate desire to get to know other people and learn, develop, and push yourself. If need be, we will teach you everything you need to know about recruiting. We do expect you to: \n\n \n Have acquired a bachelor's or master's degree with outstanding results \n\n Have an UK work permit \n\n Be curious about and have a genuine and deep passion for working with and understanding people \n\n Want to spend your day speaking with people ranging from students to executives \n\n Have a natural ability to make people feel comfortable around you \n\n \n Startdate \n\n Flexible \n\n The role is onsite, Monday to Friday, based in our offices at Buckingham Gate. It is essential we work at a fast pace and collaborate in person to create market-leading, unmatched events throughout the calendar year. It will be great to have you as part of our team. \n Find more English Speaking Jobs in United Kingdom on Arbeitnow",
+   "tags": []
+  },
+  {
+   "id": "03b631163b60332f",
+   "title": "Graduate recruiter at United Media",
+   "company": "United Media",
+   "location": "London, England, United Kingdom",
+   "remote": false,
+   "office": true,
+   "relocate": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/graduate-recruiter-at-united-media-london-24223",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-28",
+   "salary": null,
+   "description": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? And are you curious or passionate about people? If so, you might be our next Graduate recruiter. \n\n About us \n\n United Media focuses on building large scale industry media and conferences products in sectors such as insurance, HR, private equity, retail, etc. As of today, we have organically launched 8 media companies and acquired one. (Insurtech Insights, Presidents Summit, Private Equity Insights, HRtechX, CFO insights, Retail Insights and SetSales) \n\n What we offer you \n\n As our Graduate recruiter, you get the unique opportunity to be a key player in building the greatest brand within Insurtech. By providing you with the ownership of our recruiting, we want to constantly push you out of your comfort zone ensuring you become an expert. You'll be working out of our HQ in London and to ensure a never-ending growth curve, we provide you with: \n\n \n An opportunity for getting operational experience in a start-up where both your work and the results are highly tangible and matters to the business \n\n A chance to work closely together with the CEO on our recruiting strategy \n\n Unlimited growth potential in our company - we strongly believe in and we have a track record of promoting internally \n\n \n Watch this video with our founder to learn more about our thoughts on recruiting. \n\n Your Responsibilities \n\n Your responsibilities will vary; however, some of them will be to: \n\n \n Take ownership of all aspects of the recruitment process, including; role profiling, candidate sourcing, CV screening, assessment planning, creating interview scripts and conducting interviews \n\n Build a strong employer brand and attracting both the obvious talents (what we call shouting talents) as well as the more covert talents (what we call whispering talents) \n\n Own the execution of further developing and automating our recruiting processes \n\n Improve our onboarding process in close collaboration with management \n\n \n What we expect from you \n\n We expect that you take ownership of everything you do, are proactive and follow through on commitments. You possess an unparalleled work ethic with a high sense of urgency. You have a relentless drive and desire to be the very best at what you do. Moreover, you are humble and you share our passion for building and executing new businesses. While we have no preferences as to whether you have a background in HR, marketing, sales, or something completely different, we expect that you have an innate desire to get to know other people and learn, develop, and push yourself. If need be, we will teach you everything you need to know about recruiting. We do expect you to: \n\n \n Have acquired a bachelor's or master's degree with outstanding results \n\n Have an UK work permit \n\n Be curious about and have a genuine and deep passion for working with and understanding people \n\n Want to spend your day speaking with people ranging from students to executives \n\n Have a natural ability to make people feel comfortable around you \n\n \n Startdate \n\n Flexible \n\n The role is onsite, Monday to Friday, based in our offices at Buckingham Gate. It is essential we work at a fast pace and collaborate in person to create market-leading, unmatched events throughout the calendar year. It will be great to have you as part of our team. \n Find Jobs in United Kingdom on Arbeitnow",
+   "tags": []
+  },
+  {
+   "id": "abe07cfc2a8769f1",
+   "title": "Recruitment Director at United Media",
+   "company": "United Media",
+   "location": "London, England, United Kingdom",
+   "remote": false,
+   "office": true,
+   "relocate": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/recruitment-director-at-united-media-london-126513",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-28",
+   "salary": null,
+   "description": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? And are you curious or passionate about people? If so, you might be our next Recruitment Director. \n\n About us \n\n United Media focuses on building large scale industry media and conferences products in sectors such as insurance, HR, private equity, retail, etc. As of today, we have organically launched 8 media companies and acquired one. (Insurtech Insights, Presidents Summit, Private Equity Insights, HRtechX, CFO insights, Retail Insights and SetSales) \n\n What we offer you \n\n As our Recruitment Director, you get the unique opportunity to be a key player in building the greatest brand within Insurtech. By providing you with the ownership of our recruiting, we want to constantly push you out of your comfort zone ensuring you become an expert. You'll be working out of our HQ in London and to ensure a never-ending growth curve, we provide you with: \n\n \n An opportunity for getting operational experience in a start-up where both your work and the results are highly tangible and matters to the business \n\n A chance to work closely together with the CEO on our recruiting strategy \n\n Unlimited growth potential in our company - we strongly believe in and have a track record of promoting internally \n\n \n Watch this video with our founder to learn more about our thoughts on recruiting. \n\n Your Responsibilities \n\n Your responsibilities will vary; however, some of them will be to: \n\n \n Take ownership of all aspects of the recruitment process, including; role profiling, candidate sourcing, CV screening, assessment planning, creating interview scripts and conducting interviews \n\n Build a strong employer brand and attracting both the obvious talents (what we call shouting talents) as well as the more covert talents (what we call whispering talents) \n\n Own the execution of further developing and automating our recruiting processes \n\n Improve our onboarding process in close collaboration with management \n\n \n What we expect from you \n\n We expect that you take ownership of everything you do, are proactive and follow through on commitments. You possess an unparalleled work ethic with a high sense of urgency. You have a relentless drive and desire to be the very best at what you do. Moreover, you are humble and you share our passion for building and executing new businesses. While we have no preferences as to whether you have a background in HR, marketing, sales, or something completely different, we expect that you have an innate desire to get to know other people and learn, develop, and push yourself. If need be, we will teach you everything you need to know about recruiting. We do expect you to: \n\n \n Work experience with outstanding performance \n\n Have an UK work permit \n\n Be curious and have a genuine and deep passion for working with and understanding people \n\n Want to spend your day speaking with people ranging from students to executives \n\n Have a natural ability to make people feel comfortable around you \n\n \n Startdate \n\n Flexible \n\n Monday - Friday we work from our office (next to Victoria Station) and do not offer remote work. \n Find more English Speaking Jobs in United Kingdom on Arbeitnow",
+   "tags": [
+    "Lead",
+    "Remote"
+   ]
+  },
+  {
+   "id": "f7d0823f5a3911f3",
+   "title": "Head of Talent Acquisition at United Media",
+   "company": "United Media",
+   "location": "London, England, United Kingdom",
+   "remote": false,
+   "office": true,
+   "relocate": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/head-of-talent-acquisition-at-united-media-london-197951",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-28",
+   "salary": null,
+   "description": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? And are you curious or passionate about people? If so, you might be our next Head of Talent Acquisition. \n\n About us \n\n United Media focuses on building large scale industry media and conferences products in sectors such as insurance, HR, private equity, retail, etc. As of today, we have organically launched 8 media companies and acquired one. (Insurtech Insights, Presidents Summit, Private Equity Insights, HRtechX, CFO insights, Retail Insights and SetSales) \n\n What we offer you \n\n As our Head of Talent Acquisition, you get the unique opportunity to be a key player in building the greatest brand within Insurtech. By providing you with the ownership of our recruiting, we want to constantly push you out of your comfort zone ensuring you become an expert. You'll be working out of our HQ in London and to ensure a never-ending growth curve, we provide you with: \n\n \n An opportunity for getting operational experience in a start-up where both your work and the results are highly tangible and matters to the business \n\n A chance to work closely together with the CEO on our recruiting strategy \n\n Unlimited growth potential in our company - we strongly believe in and have a track record of promoting internally \n\n \n Watch this video with our founder to learn more about our thoughts on recruiting. \n\n Your Responsibilities \n\n Your responsibilities will vary; however, some of them will be to: \n\n \n Take ownership of all aspects of the recruitment process, including; role profiling, candidate sourcing, CV screening, assessment planning, creating interview scripts and conducting interviews \n\n Build a strong employer brand and attracting both the obvious talents (what we call shouting talents) as well as the more covert talents (what we call whispering talents) \n\n Own the execution of further developing and automating our recruiting processes \n\n Improve our onboarding process in close collaboration with management \n\n \n What we expect from you \n\n We expect that you take ownership of everything you do, are proactive and follow through on commitments. You possess an unparalleled work ethic with a high sense of urgency. You have a relentless drive and desire to be the very best at what you do. Moreover, you are humble and you share our passion for building and executing new businesses. While we have no preferences as to whether you have a background in HR, marketing, sales, or something completely different, we expect that you have an innate desire to get to know other people and learn, develop, and push yourself. If need be, we will teach you everything you need to know about recruiting. We do expect you to: \n\n \n Work experience with outstanding performance \n\n Have an UK work permit \n\n Be curious and have a genuine and deep passion for working with and understanding people \n\n Want to spend your day speaking with people ranging from students to executives \n\n Have a natural ability to make people feel comfortable around you \n\n \n Startdate \n\n Flexible \n\n Monday - Friday we work from our office (next to Victoria Station) and do not offer remote work.\n Find more English Speaking Jobs in United Kingdom on Arbeitnow",
+   "tags": [
+    "Lead",
+    "Remote"
+   ]
+  },
+  {
+   "id": "0f52031484cd8a97",
+   "title": "Director of Talent Acquisition at United Media",
+   "company": "United Media",
+   "location": "London, England, United Kingdom",
+   "remote": false,
+   "office": true,
+   "relocate": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/director-of-talent-acquisition-at-united-media-london-476077",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-28",
+   "salary": null,
+   "description": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? And are you curious or passionate about people? If so, you might be our next Director of Talent Acquisition. \n\n About us \n\n United Media focuses on building large scale industry media and conferences products in sectors such as insurance, HR, private equity, retail, etc. As of today, we have organically launched 8 media companies and acquired one. (Insurtech Insights, Presidents Summit, Private Equity Insights, HRtechX, CFO insights, Retail Insights and SetSales) \n\n What we offer you \n\n As our Director of Talent Acquisition , you get the unique opportunity to be a key player in building the greatest brand within Insurtech. By providing you with the ownership of our recruiting, we want to constantly push you out of your comfort zone ensuring you become an expert. You'll be working out of our HQ in London and to ensure a never-ending growth curve, we provide you with: \n\n \n An opportunity for getting operational experience in a start-up where both your work and the results are highly tangible and matters to the business \n\n A chance to work closely together with the CEO on our recruiting strategy \n\n Unlimited growth potential in our company - we strongly believe in and have a track record of promoting internally \n\n \n Watch this video with our founder to learn more about our thoughts on recruiting. \n\n Your Responsibilities \n\n Your responsibilities will vary; however, some of them will be to: \n\n \n Take ownership of all aspects of the recruitment process, including; role profiling, candidate sourcing, CV screening, assessment planning, creating interview scripts and conducting interviews \n\n Build a strong employer brand and attracting both the obvious talents (what we call shouting talents) as well as the more covert talents (what we call whispering talents) \n\n Own the execution of further developing and automating our recruiting processes \n\n Improve our onboarding process in close collaboration with management \n\n \n What we expect from you \n\n We expect that you take ownership of everything you do, are proactive and follow through on commitments. You possess an unparalleled work ethic with a high sense of urgency. You have a relentless drive and desire to be the very best at what you do. Moreover, you are humble and you share our passion for building and executing new businesses. While we have no preferences as to whether you have a background in HR, marketing, sales, or something completely different, we expect that you have an innate desire to get to know other people and learn, develop, and push yourself. If need be, we will teach you everything you need to know about recruiting. We do expect you to: \n\n \n Work experience with outstanding performance \n\n Have an UK work permit \n\n Be curious and have a genuine and deep passion for working with and understanding people \n\n Want to spend your day speaking with people ranging from students to executives \n\n Have a natural ability to make people feel comfortable around you \n\n \n Startdate \n\n Flexible \n\n Monday - Friday we work from our office (next to Victoria Station) and do not offer remote work.\n Find more English Speaking Jobs in United Kingdom on Arbeitnow",
+   "tags": [
+    "Lead",
+    "Remote"
+   ]
+  },
+  {
+   "id": "178ea1a08b7a17b1",
+   "title": "Talent Partner",
+   "company": "Goodlord",
+   "location": "London",
+   "remote": false,
+   "office": true,
+   "relocate": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/goodlord/talent-partner-london-9094",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-28",
+   "salary": null,
+   "description": "📍 Base office: We’re open to this role being based in London or Lincoln, with regular travel between our offices to stay connected and collaborate in person. \n Whichever office you are based, you’ll usually work 2 days a week in the office and 3 days remote/WFH, with monthly travel to our other offices. \n\n🚅 Why the travel? Your key stakeholders - and much of the People & Talent team - are spread across all three offices, so spending time together in person helps you really understand the people, processes, and culture you’re hiring for. \n\n💰 We cover it: Travel and accommodation costs when you visit another office are fully covered. \n\n N.B The first two weeks Tuesday, Wednesday and Thursday will be in our London office regardless of your base office \n \n Our mission: \n Two in five people in the UK rent their homes. Our mission? To provide them with the best renting experience in the world 🌎\n\n We started Goodlord because we wanted to make renting simple and transparent for everyone involved: the agent, the landlord, and the tenant. We knew Generation Rent would lead to more tenants, with higher digital expectations and we were confident we could provide a solution 🏠\n\n Like all scale-ups it’s been a bit of a rollercoaster journey, but we’re now stronger than ever, with around 3,000 letting agents using the platform, exciting and varied products and 320 Goodlordians across the group supporting the mission! 💚\n\n \n The Opportunity: \n Owning high-volume roles end to end, using creative attraction strategies, direct sourcing, and employer branding activity to build future talent pipelines.\n\n Partner with Hiring Managers to build effective, structured processes and manage all candidate scheduling, debriefs, and feedback loops.\n\n Act as the primary point of contact for candidates, ensuring a smooth, transparent, and authentic journey that positively reflects the employer brand.\n\n Maintain accuracy on Ashby to track funnel performance, analyse hiring metrics to spot bottlenecks, and balance speed with quality.\n\n Provide guidance and market insight to support better hiring decisions, refine recruitment workflows, and contribute to broader People and Talent team initiatives.\n\n \n What we need from you: \n Previous end-to-end recruitment experience, including high-volume, evergreen, or repeat hiring across more than one level or type of role.\n\n Experience working closely with Hiring Managers to build relationships, keep stakeholders informed, and constructively challenge where needed.\n\n Experience using a modern ATS (ideally Ashby), AI, automation, and recruitment technology, combined with a proactive approach to sourcing candidates.\n\n Strong organisation, prioritisation, and communication skills to keep a lot of plates spinning without candidates or Hiring Managers wondering what’s going on.\n\n A curious, proactive nature and a genuine passion & care for candidate experience and hiring the right people, not just filling a role.\n\n \n It would also be great if you’ve: \n Worked in a high-growth or fast-changing business.\n\n Recruited within Insurance, Financial Services, Customer Operations, Contact Centres, Sales or another high-volume environment.\n\n \n Why you'll love being a Goodlordian \n Aside from the role, the people, our culture and our mission, we have some other things that make Goodlord a pretty awesome place to be. Here’s a few favourites amongst Goodlordians (check out our careers page for more info).\n Grow with Goodlord: your development is important to us, that’s why we are Great Place to Work - certified . Have a goal in mind? Share it with us so we can use some of our annual development fund to support it. We guarantee you’ll learn loads and develop both personally and professionally!\n\n Your well-being matters: bi-weekly coaching with Sanctus to provide Goodlordians with a safe place to talk and support your mental health\n\n 25 days holiday (plus UK Bank holidays) plus 1 day per full holiday year up to 32 days: We believe regular breaks are essential for well-being and we encourage (some may say expect!) all Goodlordians to take full advantage of their annual leave entitlement.\n\n Supporting your family: we offer Goodlordians of all genders a generous 3 months of fully-paid time off to look after their new arrivals\n\n Our team: we’re an energetic, sociable, and talented bunch who are super passionate about what we do and determined to make a difference. We’re all in it together, we learn from each other, we’re genuine and we don’t have time for politics\n\n \n What’s next?\n If you’re ready to help us on our mission to be the gold standard platform for renting, then click apply (2-3 minutes)!\n A full job spec is available on request.\n\n Goodlord wants applicants from all backgrounds and walks of life; we are an equal opportunity employer committed to creating an inclusive environment. \n Creating a space where everyone feels included is central to who we are. Because we're an open book and we learn from each other, we",
+   "tags": [
+    "People",
+    "AI",
+    "Remote"
+   ]
+  },
+  {
+   "id": "9b50647932fd7589",
+   "title": "Talent Acquisition German Fluency: Germany",
+   "company": "Avomind",
+   "location": "Germany",
+   "remote": true,
+   "office": true,
+   "relocate": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/avomind/remote-talent-acquisition-german-fluency-germany-476249",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-28",
+   "salary": null,
+   "description": "We’re Avomind - and we’re a recruiting firm. What makes us special? We connect high-achieving individuals with hyper-growth firms. I’m sure you don’t see that every day.\n Our team is diverse and international (we come from all over the world — and we speak 16 languages), with teams in Germany, the UK, the Americas, and Indonesia.\n Our core vision? To provide our candidates with the top opportunities they deserve — and to provide our clients with quality candidates, every time. Easy.\n \n What are we looking for? \n We’re looking to grow our Talent Acquisition team , and we can’t do it without you. This team is paramount to the success of Avomind, and you’ll be supporting right at the heart of everything we do here - and how our business will be shaped for the future.\n Are you passionate, committed, and eager to learn about the recruitment process? Wonderful — then we’re good to go.\n \n What will you be doing on a daily basis? \n Actively contribute to both outbound and inbound recruitment strategies, working closely with management to explore new candidate opportunities.\n Conduct direct outbound sourcing through various channels such as LinkedIn / Xing / GitHub / Google X-Ray, etc.\n Conduct screening calls with candidates - really getting to know them and assessing their fit for our roles.\n Manage interview logistics with candidates in tandem with our Project Managers and Client Managers.\n Advise Project Managers and Client Managers on the candidate landscape and trends, to support a seamless service for our clients.\n Take ownership of the candidate experience - build your reputation through an excellent candidate experience.\n Work closely with some of the best in the business - we’re incredibly proud of our team, and we’re excited to have you onboard!\n \n Requirements \n Sounds good, right? We would LOVE to get to know you if:\n You have a minimum of 2 years of full-cycle recruitment experience within an agency or sales-oriented environment.\n You have experience working with LinkedIn Recruiter and internal ATS platforms.\n You thrive in goal-oriented environments and want to achieve the best.\n You have a growth mindset and are always looking for ways to improve.\n You are team-oriented and committed.\n You can work with ever-changing priorities in a very agile environment.\n You’re fluent in English & German — any other languages would be an advantage.\n \n Benefits \n Career Booster: \n Coaching & Development Program\n Weekly Global Trainings\n Fast-Track Career Progression (70% of our team were promoted in the last 12 months — you will be joining them, too!)\n Learning from the top. We have flat hierarchies, so you’ll learn from the best that Avomind has to offer.\n Modern Work: \n Flexible working hours (we get it — life comes at you thick and fast sometimes, so we’re flexible).\n Vacations: \n 20 vacation days + public holidays.\n Each year with us = +1 holiday day (capped at 30 days).\n Find Jobs in Germany on Arbeitnow",
+   "tags": [
+    "Internal - Operations",
+    "Remote"
+   ]
+  },
+  {
+   "id": "71f94a35ca0b7dd0",
+   "title": "Talent Acquisition Specialist (m/w/d)",
+   "company": "cbs Corporate Business Solutions GmbH",
+   "location": "Heidelberg, Baden-Württemberg, Deutschland",
+   "remote": false,
+   "office": true,
+   "relocate": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/talent-acquisition-specialist-heidelberg-485986",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-28",
+   "salary": null,
+   "description": "Wir sind die Berater der Weltmarktführer: Hochmotivierte Expertinnen und Experten, die als erfolgreiches Team digitale End-to-End-Geschäftsprozesslösungen vorantreiben. Gemeinsam stärken wir die Zukunft der beeindruckendsten Unternehmen der Welt aus Maschinen- und Anlagenbau, Automotive, Life Science, Pharma und Chemie, mit denen wir viel gemeinsam haben. \n Unser ausgezeichneter Ruf bei Hidden Champions öffnet Dir die Türen für anspruchsvolle Projekte mit einzigartigen Gestaltungsmöglichkeiten. Werde Teil einer der besten und verlässlichsten Beratungen und nutze vielfältige Entwicklungschancen. Als engagiertes Teammitglied kannst Du bei uns schnell Verantwortung übernehmen und über Dich hinauswachsen. Du triffst auf ein starkes Team, das zusammenhält und wirklich etwas bewegen will.\n Um unser weiteres Wachstum nachhaltig zu sichern, suchen wir Verstärkung für unser Talent Acquisition Team. Dabei liegt Dein Fokus auf der Identifikation, Ansprache und Gewinnung von qualifizierten Talenten für unsere Beratungsorganisation. Du arbeitest eng mit unseren Fachbereichen zusammen und bist ein wichtiger Treiber für den Ausbau unserer Talent Pipelines.\n \n \n Was Dich erwartet \n Active Sourcing: Du identifizierst und kontaktierst qualifizierte Kandidatinnen und Kandidaten über berufliche Netzwerke und weitere relevante Plattformen.\n\n Talent Mapping: Du analysierst Märkte, Wettbewerber und Zielfirmen und entwickelst nachhaltige Talent-Pipelines für unsere Wachstumsbereiche.\n\n Stakeholder Management: Du arbeitest eng mit Führungskräften und Hiring Managern zusammen und besprichst deren Anforderungen.\n\n Talent Relationship Management: Du pflegst langfristige Beziehungen zu potenziellen Kandidatinnen und Kandidaten und baust aktiv Netzwerke auf.\n\n Direktansprache & Erstqualifizierung: Du führst erste Gespräche mit Talenten, bewertest deren fachliche und persönliche Passung und schaffst eine positive Candidate Experience.\n\n Recruiting Innovation: Du beobachtest aktuelle Recruiting-Trends und bringst neue Ideen, Methoden und Tools in unsere Talent Acquisition ein.\n\n \n Was wir uns wünschen \n Erste Erfahrung im Active Sourcing, Talent Acquisition oder Research, idealerweise im Beratungs-, IT- oder Professional-Services-Umfeld\n\n Nachweisbare Erfolge bei der Gewinnung von Fach- und Expertenprofilen\n\n Freude an der proaktiven Kandidatenansprache und dem Aufbau langfristiger Netzwerke\n\n Souveränes Auftreten sowie ausgeprägte Kommunikations- und Überzeugungsfähigkeit\n\n Interesse an Marktanalysen, Talent Mapping und modernen Recruiting-Methoden\n\n Hohe Eigeninitiative, Kreativität und ein ausgeprägter Servicegedanke\n\n Sehr gute Deutsch- und Englischkenntnisse\n\n \n Was dich erwartet\n Wachstum aktiv gestalten: Du leistest einen direkten Beitrag zum Ausbau einer der führenden SAP- und Managementberatungen Europas.\n\n Fokus auf Talent Acquisition: Dein Schwerpunkt liegt auf Sourcing, Talentgewinnung und Netzwerkaufbau statt auf administrativer Prozesssteuerung.\n\n Partnerschaftliche Zusammenarbeit: Du arbeitest eng mit Fachbereichen, Hiring Managern und dem Recruiting-Team zusammen.\n\n Gestaltungsspielraum: Eigene Ideen und neue Recruiting-Ansätze sind ausdrücklich erwünscht.\n\n Internationales Umfeld: Spannende Projekte und Positionen in einem stark wachsenden, internationalen Beratungsunternehmen.\n\n Persönliche Entwicklung: Umfangreiche Weiterbildungs- und Entwicklungsmöglichkeiten\n\n \n Unsere Benefits: \n Aus- und Weiterbildung \n Fachspezifische Schulungen und Weiterbildungsangebote\n Betriebliche Gesundheitsförderung \n Zuschuss zur betrieblichen Altersvorsorge, Zusatzversicherungen, diverse Sportangebote wie Urban Sports Club, Yoga etc.\n Events \n Beratertage, Weihnachtsfeier, Sommerfest, Teamevents, Alumni-Treffen, Jubiläumsfeiern und -reisen\n Prämien \n Attraktive Gehaltsmodelle, Mitarbeiterempfehlungsprämien\n Arbeitszeiten \n Flexible Arbeitszeitmodelle, mobiles Arbeiten, 30 Tage Urlaub, Workation\n Ausstattung \n Firmenhandy (iPhone), Notebook / Macbook, Mitarbeiter PC Programm, Ergonomische Arbeitsplätze, Kostenlose Getränke, Gemeinschaftsräume mit Wohlfühlcharakter\n Mobiliät \n Mobilitätspauschale, Bahncard, Jobrad\n Zuwendungen \n Zuschüsse für Kindergarten/Kita und außerordentliche Zuwendungen je Lebenssituation und Betriebszugehörigkeit\n \n \n Find Jobs in Germany on Arbeitnow",
+   "tags": [
+    "HR"
+   ]
+  },
+  {
+   "id": "cceaf5ca0c6a7fe7",
+   "title": "Pflichtpraktikum Recruiting / Talent Acquisition (m/w/d)",
+   "company": "Assentio",
+   "location": "Leipzig",
+   "remote": false,
+   "office": true,
+   "relocate": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/assentio/pflichtpraktikum-recruiting-talent-acquisition-leipzig-82515",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-28",
+   "salary": null,
+   "description": "Deine Aufgaben Du erhältst einen praktischen Einstieg in Recruiting und Personalgewinnung \n Dabei lernst du den gesamten Recruiting-Prozess kennen – von der Stellenausschreibung bis zur Vorqualifizierung\n Im Screening prüfst du eingehende Bewerbungen , bewertest Profile und identifizierst passende Kandidat:innen für den weiteren Prozess.\n Du führst erste Telefoninterviews und Bewerbungsgespräche \n \n\n Dein Profil Du studierst BWL , Wirtschaftspsychologie , Personalmanagement oder einen vergleichbaren Studiengang.\n Ein Pflichtpraktikum ist im Rahmen deines Studiums  vorgesehen .\n Interesse an Recruiti ng , HR und Personalthemen sowie Freude am Umgang mit Menschen.\n Kommunikationsstärke und ein sicheres Auftreten in Telefoninterviews und Gesprächen.\n Eine strukturierte, zuverlässige Arbeitsweise und die Bereitschaft, schnell Verantwortung zu übernehmen.\n \n\n Warum wir? \n Praxis statt Zuschauen – Du übernimmst von Anfang an echte Aufgaben, sammelst eigene Recruiting-Erfahrung und lernst verschiedene Tools und Prozesse direkt im Tagesgeschäft kennen. \n Junges Team, schnelle Entwicklung – Du arbeitest eng mit einem ambitionierten Team zusammen, bekommst direktes Feedback und kannst früh Verantwortung übernehmen.\n Arbeiten im Herzen von Leipzig – Ein wunderschönes, denkmalgeschütztes Büro in der Reichsstraße / Ecke Grimmaische Straße – mitten im Zentrum.\n Regelmäßige Team- und Firmenevents – Ob Sommerfest, Weihnachtsfeier oder Events innerhalb deines Teams – wir schaffen gemeinsame Erlebnisse.\n Dein eigenes MacBook – Modernes Equipment für maximale Produktivität.\n \n Find Jobs in Germany on Arbeitnow",
+   "tags": [
+    "Recruiting",
+    "Talent Acquisition",
+    "HR"
+   ]
+  },
+  {
+   "id": "d29130c4abd9d553",
+   "title": "Sourcer Private Destinations",
+   "company": "Royal Caribbean Group",
+   "location": "Nassau, ",
+   "remote": true,
+   "office": true,
+   "relocate": false,
+   "url": "https://remoteOK.com/remote-jobs/remote-sourcer-private-destinations-royal-caribbean-group-1137172",
+   "source": "remoteok",
+   "posted_at": "2026-08-27",
+   "salary": null,
+   "description": "Journey with us! Combine your career goals and sense of adventure by joining our incredible team of employees at Royal Caribbean Group . We are proud to offer a competitive compensation and benefits package, and excellent career development opportunities, each offering unique ways to explore the world.\n\nWe are proud to be the vacation-industry leader with global brands â including Royal Caribbean International, Celebrity Cruises and Silversea Cruises â the most innovative fleet and private destinations, and the best people. Together, we are dedicated to turning the vacation of a lifetime into a lifetime of vacations for our guests.\n\nRoyal Caribbean Groupâs Shipboard Recruiting team has an exciting career opportunity for a full time Sourcer, Private Destinations reporting to the Director, Shipboard Recruiting .\n\n This position will reside in Nassau Bahamas and will sit in our main office.\n\n Position Summary\n\n The Sourcer executes all strategic sourcing activities in partnership with the Private Destinations talent acquisition initiatives across entry levels and functions.\n\nThe goal is to ensure that the organization can consistently proactively deploy the right people, in the right place, at the right time, at the most efficient cost, and for them to be fully engaged.\n\n Essential Duties And Responsibilities\n\n Builds and implements sourcing strategy.\n Understands and executes current trends and best practices in sourcing and talent attraction.\n Builds talent pipelines from various platforms such as social media, job boards, niche sites, and other similar platforms to implement sourcing strategy.\n Creates candidate pipeline ahead of need and real time.\n Leverages proprietary pipelines of candidates through our ATS and CRM.\n Collaborates with recruiters to develop market strategy, pipeline candidates, provide insights, and share competitive intelligence.\n Partners with the necessary team(s) to establish, develop, and maintain relationships with hiring managers.\n Provides support of inbound sourcing (candidate / req management) as needed.\n Assists with recruitment marketing and events initiatives.\n Help support candidates with applications.\n Assists with overseeing Smartsheet trackers.\n Meets operational business goals and KPIâs.\n\n Qualifications\n\n Bachelorâs degree in human resource management, business administration, or related field from an accredited college or university or the international equivalent required.\n Minimum two (2) yearsâ experience in working for a global/international or reputable local organization in the same capacity.\n Working knowledge of computers, internet access, and the ability to navigate within an automated HRIS system as well as variety software packages such as Excel, Word, and PowerPoint; familiar with social media and relevant company/brand efforts.\n Good working knowledge in recruitment strategies and talent pool management\n Knowledge of accepted human resources practices and the laws governing employment and fair treatment of employees globally.\n Must be tactful, resolute, and committed to providing excellent customer service.\n Must have a flexible approach to change, is able to work effectively in a variety of situations, seeks improvements and looks to the future.\n Strong written and presentational skills; ability to clearly communicate complex messages to a variety of audiences including management.\n Ability to work with colleagues, managers, and stakeholders in effective partnership.\n\n We know there's a lot to consider. As you go through the application process, our recruiters will be glad to provide guidance, and more relevant details to answer any additional questions. Thank you again for your interest in Royal Caribbean Group. We'll hope to see you onboard soon!\n\nIt is the policy of the Company to ensure equal employment and promotion opportunity to qualified candidates without discrimination or harassment on the basis of race, color, religion, sex, age, national origin, disability, sexual orientation, sexuality, gender identity or expression, marital status, or any other characteristic protected by law. Royal Caribbean Group and each of its subsidiaries prohibit and will not tolerate discrimination or harassment.\n\nPlease mention the word **HARMLESS** and tag RMTcyLjIwMy4xOTYuMjMy when applying to show you read the job post completely (#RMTcyLjIwMy4xOTYuMjMy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+   "tags": [
+    "MarTech"
+   ]
+  },
+  {
+   "id": "80921d62262b7d9e",
+   "title": "Working Student Talent Acquisition (m/f/d)",
+   "company": "OKAPI:Orbits GmbH",
+   "location": "Brunswick (Germany)",
+   "remote": false,
+   "office": true,
+   "relocate": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/okapiorbits-gmbh/working-student-talent-acquisition-brunswick-germany-485835",
+   "source": "arbeitnow",
+   "posted_at": "2026-08-27",
+   "salary": null,
+   "description": "Your mission As a Working Student in talent acquisition at OKAPI:Orbits, you play an active role in finding the right talent for our team, which builds SaaS solutions covering the entire satellite lifecycle. You support our Operations team in day-to-day operations, help keep the application process running smoothly, and make sure new colleagues get the best possible start with us. This includes maintaining an overview of all open positions, ensuring a smooth handover of candidates between stages and coordinating interview slots with different departments.\n\n Your tasks and responsibilities Supporting the execution of 1st interviews to assess company culture fit \n Monitoring and coordinating the interview process to keep deadlines on track and all stakeholders informed\n Preparing onboarding documentation for new hires\n Processing and evaluating application questionnaires  with support of Claude as part of the recruiting process\n Supporting the preparation of 2nd interview commercial/technical challenges for candidates\n Coordinating scheduling between candidates and hiring teams with Microsoft Bookings\n Ensuring timely processing of candidates in our HR software Personio  \n Supporting the recruiting team with general administrative tasks\n \n\n Your profile Must-haves: \n Completed Bachelor's degree (HR, Psychology, Legal, Business or related), or at least 2 years of experience as a working student\n Available onsite in Braunschweig, ideally 20 hours per week, starting immediately\n Structured, reliable and detail-oriented way of working with sensible information\n Excellent communication skills in German and English\n Confident use of MS Office (Sharepoint, Bookings)\n Excellent communication skills\n Nice-to-haves: \n Initial experience in HR , recruiting or people operations\n Recruiting experience in  high-pace companies with deep-tech products  \n Experience with German (and Spanish) labour law\n \n\n Why us? Real impact:  Your decision influence the developement of OKAPI:Orbits directly.\n Learning culture:  You work with experienced engineers and product experts who support your growth and give you space to explore.\n Flexible working model:  Working student contract with flexible hours that fit your studies\n Exciting domain: Be part of a European NewSpace startup working on SSA, STM and collision avoidance.\n 30 vacation days per year\n Regular after-work activities and Team Events , such as \"Flavors of..\", Summer & Christmas Events\n Subsidized Hansefit membership \n Free German course  \n \n Find Jobs in Germany on Arbeitnow",
+   "tags": [
+    "Working Student",
+    "Recruiting",
+    "HR"
+   ]
+  },
   {
    "id": "db3bc2bead253306",
    "title": "People Operations Specialist (m/w/d) für den Klimaschutz gesucht! ",
