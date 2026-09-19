@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-09-18T09:48:40.745Z",
- "count": 219,
+ "updated_at": "2026-09-19T09:33:50.140Z",
+ "count": 224,
  "sources": {
   "remotive": {
-   "fetched": 15,
-   "ms": 883
+   "fetched": 16,
+   "ms": 316
   },
   "adzuna": {
    "fetched": 0,
@@ -12,18 +12,131 @@
   },
   "hh": {
    "fetched": 0,
-   "ms": 5504
+   "ms": 4313
   },
   "remoteok": {
    "fetched": 99,
-   "ms": 750
+   "ms": 469
   },
   "arbeitnow": {
-   "fetched": 698,
-   "ms": 842
+   "fetched": 779,
+   "ms": 604
   }
  },
  "jobs": [
+  {
+   "id": "7f9f9f05211a7368",
+   "title": "People Operations Coordinator",
+   "company": "Montu Uk",
+   "location": "Winnersh",
+   "remote": false,
+   "office": true,
+   "relocate": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/people-operations-coordinator-winnersh-56907",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-19",
+   "salary": null,
+   "description": "What is the job? \n\nReady to be part of a fast-growing business where no two days look the same? We’re looking for a proactive, highly organised and solutions-focused People Operations Coordinator to support our growing teams and help deliver a brilliant employee experience across the business.\n This is a hands-on, hybrid role sitting at the heart of our People function. You’ll support the day-to-day delivery of People Operations, working closely with managers and teams across the business. From onboarding and systems administration to employee lifecycle processes, you’ll play an important role in keeping things running smoothly and helping us scale effectively.\n You’ll need to be comfortable working at pace, managing changing priorities and using your judgement to find practical solutions. We’re looking for someone who doesn’t just identify a problem, but takes ownership of working through it and getting it resolved.\n Experience within healthcare or another regulated environment would be beneficial, but it is not essential. What matters most is your ability to stay organised, think on your feet and deliver accurate, high-quality work in a fast-moving business.\n \n What will you be doing? \n Support the day-to-day running of the People function across the full employee lifecycle\n\n Coordinate onboarding activities for new starters, ensuring a smooth and organised experience from offer through to induction\n\n Ensure onboarding documentation, right to work checks, training records and compliance processes are completed accurately and within the required timelines\n\n Maintain accurate employee records across our HR systems and internal trackers\n\n Support with People administration, including contract generation, employee changes, probation documentation and offboarding processes\n\n Act as a first point of contact for employee queries, providing timely, professional and solutions-focused support\n\n Coordinate People processes, including probation reviews, training records, employee communications and engagement initiatives\n\n Support managers and the wider People team with administrative and operational requirements\n\n Maintain People policies, process documents and internal guidance materials\n\n Support reporting, data tracking and audits to ensure accurate records and strong compliance standards\n\n Work collaboratively with teams across the business to deliver a positive and efficient employee experience\n\n Take ownership of operational issues, investigating the cause and identifying practical solutions\n\n Proactively identify opportunities to improve processes, reduce unnecessary administration and increase operational efficiency as the business grows\n \n\n What do you need? \n Previous experience within a People Operations, HR administration or coordination role\n\n Strong practical problem-solving skills, with the ability to assess an issue, use your judgement and identify workable solutions\n\n A proactive, solutions-focused mindset and the confidence to take ownership of tasks through to completion\n\n The ability to work effectively in a fast-paced and evolving environment where priorities can change quickly\n\n Excellent organisation and attention to detail, with the ability to manage multiple competing priorities\n\n Strong administrative and coordination skills with excellent follow-through\n\n Clear and professional written and verbal communication skills\n\n A calm, approachable and responsive manner when supporting employees and managers\n\n The confidence to work independently while knowing when to seek guidance or escalate an issue\n\n The ability to handle confidential and sensitive information appropriately\n\n Confidence using HR systems and maintaining accurate employee data\n\n Experience using HiBob would be advantageous, but is not essential\n\n Experience within healthcare or another regulated, high-growth environment would be beneficial, but is not essential\n\n \n What we offer: \n Generous Leave : 25 days holiday (rising to 27 after year one and 30 after year three) + 8 bank holidays\n\n Pension Matching : Up to 5% employer matching contributions\n\n Flexibility and Wellness : Work-from-home options, cycle-to-work scheme, private healthcare and more\n\n Growth Opportunities : Collaborate across teams with support to grow your skills and impact\n\n Enhanced Maternity & Paternity Leave \n\n About Us \n Montu is a leading digital health company specialising in cannabis-based medicines (CBPM), dedicated to improving patient access to safe and effective treatments. Our mission is to transform lives by combining innovative technology with high-quality clinical care, ensuring patients receive the support they need at every step of their journey.\n As a fast-growing organisation, we offer a collaborative and supportive environment where talented people can develop their careers while contributing to meaningful change in healthcare. At Montu UK, your work has a direct impact on improving patients’ lives and expanding access to modern medical treatme",
+   "tags": [
+    "Alternaleaf"
+   ]
+  },
+  {
+   "id": "05961eac59be227e",
+   "title": "GTM Recruiter",
+   "company": "Metaview",
+   "location": "London",
+   "remote": false,
+   "office": true,
+   "relocate": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/metaview/gtm-recruiter-london-116645",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-19",
+   "salary": null,
+   "description": "Metaview is an AI company focused on recruiting. We build AI agents that help world-class companies hire with radically more speed and precision. We automate the toil, and augment the human for companies like Brex, Affirm, Deel, ElevenLabs, and Airtable.\n Founded by Siadhal and Shahriar after their experiences scaling Uber and Palantir, we’ve raised over $50m from top-tier investors. Most recently, Google Ventures led our series B. We’re growing 5x YoY, our customers are raving fans of the product, and our story has been covered in Fortune, Forbes, TechCrunch, and The Times.\n It’s still day 0: Now is the time to re-engineer how work gets done with AI at the core, and our toughest challenges still lie ahead. We’re looking for people seeking the hardest, most fulfilling work of their lives.\n \n How we work\n We operate with one core principle: velocity. In practice, this means we:\n Optimize everything we do around accelerating rate of learning.\n\n Do truly great work \n\n Communicate openly and directly, and with full context.\n\n All while maintaining a hard-earned reputation for craft and quality.\n \n The role:\n We’re at an exciting inflection point: strong customer love, clear product–market fit, and accelerating growth. As our GTM Recruiter, you’ll partner directly with GTM leadership to build a world-class commercial organization. You’ll own the full GTM recruiting lifecycle with an emphasis on Sales, while also build on the foundational systems, processes, and tools that will scale our hiring engine. All while working within the business operating at the bleeding edge of how hiring gets done with AI.\n Key ownership areas:\n Partner with the Co-founder/CEO and GTM leaders to define hiring needs across Sales, CS, and Marketing.\n\n Own end-to-end recruiting for GTM roles: sourcing, outreach, screening, stakeholder alignment, interviews, and offer processes.\n\n Refine our recruiting infrastructure and keep making it sharper. \n The bigger opportunity: build a hiring machine that combines systematic rigour with human judgement; 100x'ing our capacity and leaving the competition at the starting line.\n\n \n Develop genuine expertise in GTM talent markets. Where the best operators are, what they care about, what it takes to land them.\n\n Keep leadership honest. Surface pipeline realities and translate them into clear, data-driven decisions, trade offs, and next steps.\n\n \n What you bring:\n 3+ years in full-cycle recruiting at a fast-paced, high-growth B2B startup (experience hiring for GTM roles desirable)\n\n A skilled assessor with an unusually high bar for talent. You can assess the intangibles that separate exceptional candidates from competent ones, and sell the opportunity in the same breath.\n\n A network, or the hunger and discipline to build one fast. You know where the best GTM operators are, what they care about, and how to get their attention.\n\n AI-native. You've already figured out how to use it to move faster and hire better. You're not waiting for permission or a playbook.\n\n Comfortable partnering directly with founders and GTM leaders. You can push back, hold the line on bar, and earn trust doing both.\n\n A hunter mentality. The GTM talent market doesn't give up its best people easily. You'll find a way.\n\n \n What we offer:\n The best co-workers you’ll ever have, in an environment that fosters cohesion, collaboration, and performance.\n\n Supreme rate-of-learning as we re-orient how the world works with AI.\n\n High compensation, through cash and equity.\n\n All the benefits you’d expect and more.\n\n Find Jobs in United Kingdom on Arbeitnow",
+   "tags": [
+    "People",
+    "AI"
+   ]
+  },
+  {
+   "id": "2e83e8bcc3c6e2df",
+   "title": "Senior Recruiter - Vollzeit (m/w/d)",
+   "company": "Cordes Consulting GmbH",
+   "location": "Hamburg, Hamburg, Deutschland",
+   "remote": false,
+   "office": true,
+   "relocate": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/senior-recruiter-vollzeit-hamburg-89285",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-18",
+   "salary": null,
+   "description": "Ab sofort suchen wir einen Senior Recruiter - Vollzeit (m/w/d) in Vollzeit an unserem Standort in der Hamburger Innenstadt. \n In dieser Position führst du strukturierte Qualifizierungsgespräche mit Bewerbern durch, die wir über Social-Media-Kampagnen für unsere Kunden generieren. Du prüfst, ob ein Bewerber fachlich und persönlich zum jeweiligen Unternehmen passt – und übernimmst anschließend die Terminierung der Vorstellungsgespräche. \nDiese Rolle erfordert Verantwortungsbewusstsein, Prozesssicherheit und eine strukturierte Arbeitsweise. Du arbeitest eng mit unseren Projektmanagern zusammen und sorgst dafür, dass unsere Kunden nur passende Bewerber vorgestellt bekommen.\n\n Was macht die Cordes Consulting GmbH genau? \n \n Wir sind eine Werbeagentur, welche Handwerksunternehmen durch innovative Social-Media-Strategien dabei hilft, mehr Bewerbungen von Fachkräften aus der Region zu erhalten. Wir vermarkten also mittelständische Unternehmen als attraktive Arbeitgeber in den sozialen Netzwerken und generieren für diese Bewerbungen für ihre handwerklichen Stellen. Dazu suchen wir neue Recruiter (m/w/d), um diese Bewerber zu kontaktieren und Bewerbungsgespräche bei unseren Kunden zu terminieren.\n \n Aufgabengebiete: \n\n Du führst telefonische Vorgespräche mit Bewerbern, die wir über unsere Kampagnen generieren\n\n Du prüfst, ob die Bewerber für die jeweilige Stelle geeignet sind – anhand klarer Kriterien\n\n Du triffst eine Vorauswahl und organisierst Vorstellungsgespräche bei unseren Kunden\n\n Du dokumentierst alle Gesprächsergebnisse sorgfältig in unserem Bewerbermanagementsystem\n\n Du übermittelst den Bewerbern relevante Informationen zum Job und zum Arbeitgeber\n\n Du arbeitest nach festen Gesprächsleitfäden und standardisierten Prozessen\n\n \n Wenn du weitere Informationen zu unserem Unternehmen und deiner Karriere bei Cordes Consulting haben möchtest, findest du diese auf www.cordes-karriere.de. \n \n Gehalt: Senior Recruiter (m/w/d): 5.100 € brutto im Monat.\n Die Einarbeitungsphase dauert in der Regel 2–4 Monate.\n \nDas erwartet Dich bei uns: \n\n Eine gute Vergütung über dem Branchendurchschnitt.\n\n Ausführliche interne Schulung: Durch unser internes Schulungssystem lernst du alles, was du für deine neue Tätigkeit bei uns im Unternehmen benötigst.\n\n Hervorragende Aufstiegsmöglichkeiten : Über die nächsten Jahre werden wir weiter stark wachsen.\n\n Einen tollen Firmenstandort in der Hamburger Innenstadt mit moderner Arbeitsausstattung.\n\n Eine tolle Arbeitsatmosphäre: Uns ist ein positives Umfeld wichtig. Der Umgang untereinander ist sehr kollegial und familiär. Wir ziehen alle am gleichen Strang.\n\n Ein dynamisches Team ein motivierendes Arbeitsumfeld.\n\n Einen sichereren Arbeitsplatz: Jede Person, die wir einstellen, soll langfristig mit uns wachsen. Das Ziel jeder Einstellung ist eine unbefristete Übernahme.\n\n Eine erstklassige Büroausstattung: Wir arbeiten ausschließlich mit moderner Technik und Arbeitsausstattung.\n\n Wir übernehmen die Kosten für dein Deutschlandticket oder einen Tiefgaragenstellplatz in unserem Bürogebäude.\n\n Cordes Consulting Gesundheitssystem: Profitiere von umfangreichen Gesundheitsleistungen für dich und deine Familienangehörigen (u. a. 900 € jährliches Gesundheitsbudget für Privatleistungen, Facharzt-Terminvereinbarung innerhalb von 5-10 Tagen, ärztliche Zweitmeinung sowie ein 24/7 Gesundheitstelefon)\n\n \n Eine abgeschlossene kaufmännische Ausbildung oder ein abgeschlossenes Studium im Bereich BWL, Marketing oder Personalwesen\n\n Mehrjährige relevante Berufserfahrung (mindestens 5 Jahre) in den Themenbereichen Recruiting, Projektmanagement oder Personalmarketing\n\n Ausgeprägtes analytisch-methodisches und strukturiertes Denken, hohe Organisationsfähigkeit, Ergebnis- und Lösungsorientierung sowie Teamorientierung gepaart mit sicherem Auftreten, einer eigenständigen Arbeitsweise und einem hohen Maß an Kommunikationsfähigkeit\n\n Die Fähigkeit, bestehende Prozesse nicht nur zu befolgen, sondern auch aktiv zu optimieren und weiterzuentwickeln\n\n Sehr schnelle Auffassungsgabe und ausgeprägte Disziplin\n\n Exzellente kommunikative Fähigkeiten und ein starkes Gespür für Präzision\n\n Stilsichere, saubere und fehlerfreie schriftliche Ausdrucksform in Deutsch\n\n Guter Umgang mit Leistungsdruck\n\n Find more English Speaking Jobs in Germany on Arbeitnow",
+   "tags": [
+    "(6) Verwaltung",
+    "Senior"
+   ]
+  },
+  {
+   "id": "c93803e5bf782e90",
+   "title": "Recruiter / Talent Acquisition (m/w/d) - Schwerpunkt Sales Recruiting",
+   "company": "Enter by baupal GmbH",
+   "location": "Berlin",
+   "remote": false,
+   "office": true,
+   "relocate": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/enter-by-baupal-gmbh/recruiter-talent-acquisition-schwerpunkt-sales-recruiting-berlin-155937",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-18",
+   "salary": null,
+   "description": "Die steigenden Energiekosten treffen jeden Haushalt. Wir senken, was gerade am meisten wehtut.\n\n Enter ist die Antwort auf eine Frage, die sich gerade Millionen Hausbesitzer stellen: Nicht ob ihr Haus elektrifiziert wird – sondern wie, und mit wem. Bei steigenden Energiekosten helfen wir Haushalten durch die Installation der richtigen Wärmepumpen und PV-Anlagen jährlich um die 1.500€ einzusparen.\n\n Als Deutschlands führender Energieberater mit über 40 Millionen Euro Funding und über 90 Mitarbeitern sind wir erfahrene Pioniere in einem Markt, der gerade erst so richtig losgeht.\n\n Enter. Jetzt ist der Moment.\n\n Die Fakten.\n\n \n Start: 15.10.\n\n Gehalt: €40.000-50.000 brutto pro Jahr\n\n Arbeitsort: Büro an der Spree (Schlesische Str. 26, 10997 Berlin)\n\n Homeoffice Möglichkeiten\n\n Arbeitszeit: Vollzeit (40h/w) und flexible Arbeitszeiten (spätester Beginn um 9:30 Uhr)\n\n Benefits: Learning-Budget, Urban Sports Clubs, Jobticket- oder Kita-Zuschuss; Betriebliche Altersvorsorge; Team-Events, die nicht langweilig werden\n\n \n Was Du machen wirst.\n\n Du gestaltest mit unserem People Lead das Wachstum unseres Sales Teams.\n\n \n End-to-End Recruiting mit Fokus auf Sales-Positionen (Pre-Sales &#x26; Sales Manager, unterstützend für weitere Rollen)\n\n Active Sourcing als Kernaufgabe: gezielte Direktansprache über LinkedIn Recruiter &#x26; weitere Kanäle\n\n Screening von Bewerbungen und Führen von Erstgesprächen\n\n Aufbau und Pflege eines warmen Talentpools\n\n Enge Zusammenarbeit mit den Hiring Managern im Sales-Team\n\n Erstellung und laufende Optimierung von Stellenausschreibungen\n\n Mitwirkung an Recruiting-Kampagnen (Multi-Channel-Postings, Social Media)\n\n Recruiting-Ops in Personio: sauberer Prozess, klare Zahlen, verlässliches Reporting\n\n Je nach Kapazität: Unterstützung bei weiteren People Themen\n\n \n Was Du mitbringen solltest.\n\n \n Mind. 1 Jahr Erfahrung im Recruiting, davon nachweisbare Praxis im Active Sourcing\n\n Idealerweise Erfahrung im Sales Recruiting bzw. in einem wettbewerbsintensiven, schnelllebigen Umfeld\n\n Sicherer Umgang mit LinkedIn Recruiter und gängigen Sourcing-Tools\n\n Du hast ein gutes Gespür für Menschen und deren Motivation und bist verhandlungssicher\n\n Du behältst auch bei mehreren offenen Stellen gleichzeitig den Überblick\n\n Fließendes Deutsch (unsere Unternehmenssprache), gutes Englisch von Vorteil\n\n Erfahrung mit Personio oder einem vergleichbaren ATS ist ein Plus\n\n \n Warum Du Dich jetzt bewerben solltest.\n\n Bei uns zählen Eigenverantwortung, Exzellenz und Energie. Wir denken in Ergebnissen und fordern uns gegenseitig heraus, um Deutschlands führende Kraft in der Umsetzung von energetischen Sanierungen zu werden. Wenn dich das abholt, melde dich.\n\n \n Das Timing ist perfekt. Werde jetzt Teil von einem der schnellst wachsenden Energie-Startups Deutschlands - finanziert von Europas bekanntesten Venture Capitals\n\n Arbeite gemeinsam mit ambitionierten Kollegen in einem Umfeld mit spürbarem Momentum\n\n Unbegrenzte Lernmöglichkeiten und vielseitige Aufstiegschancen\n\n Spreeblick statt Hinterhof: unser Büro liegt direkt am Wasser, mitten in Kreuzberg\n\n Individuelles Benefit: Learning-Budget, Urban Sports Clubs, Jobticket- oder Kita-Zuschuss\n\n Betriebliche Altersvorsorge für deine sichere Zukunft\n\n Team-Events, die nicht langweilig werden\n\n \n Unser Bewerbungsprozess.\n\n Daniel (People Lead) ist Dein Ansprechpartner für diese Rolle.\n\n So geht's weiter:\n\n \n 45 Minuten Erstgespräch mit Daniel (virtuell) – innerhalb einer Woche nach Deiner Bewerbung\n\n 60 Minuten mit Daniel (People Lead) und Justus (HRBP) vor Ort bei uns im Büro in Kreuzberg\n\n \n Find Jobs in Germany on Arbeitnow",
+   "tags": [
+    "Recruitment and Selection",
+    "Sales"
+   ]
+  },
+  {
+   "id": "ff9fd22db3485c38",
+   "title": "Working Student HR & Recruitment (m/f/d)",
+   "company": "Ecovacs Europe Gmbh",
+   "location": "Düsseldorf",
+   "remote": false,
+   "office": true,
+   "relocate": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/ecovacs-europe-gmbh/working-student-hr-recruitment-dusseldorf-141717",
+   "source": "arbeitnow",
+   "posted_at": "2026-09-18",
+   "salary": null,
+   "description": "Your Responsibilities We are looking for a motivated  Working Student (m/f/d) to join our HR team in Düsseldorf and support us across recruitment, HR administration, and employee engagement activities.\n\nThis is a great opportunity for a student who already has some practical experience in  HR and recruitment and would like to gain broader hands-on experience in a dynamic international working environment.\n\n Your Responsibilities \n\n Recruitment & Talent Acquisition \n Support the HR team throughout the recruitment process, from job posting to interview coordination\n Create, publish, and maintain job advertisements across relevant recruitment platforms\n Review and screen incoming CVs and applications based on defined criteria\n Conduct initial candidate screening calls and coordinate next steps with the HR team\n Support candidate communication and provide a positive candidate experience\n Assist with preparing interview materials \n Support onboarding activities for new employees where required\n HR Administration \n Provide day-to-day administrative support to the HR team\n Process and post HR-related invoices and assist with tracking and documentation.\n Assist with various administrative tasks and HR projects as required\n Employee Engagement & HR Events \n Support the planning and organization of HR activities, employee events, workshops, and team initiatives\n Assist with event logistics, communication, invitations, and coordination\n \n\n Your profile Currently enrolled as a student at a university and eligible to work as a Working Student in Germany\n Previous practical experience in HR, recruitment, talent acquisition, or a related field is required\n Fluent English skills, both written and spoken, German at least B2 level, Mandarin Chinese is a plus\n Strong interest in HR and recruitment\n Excellent organizational and time-management skills\n Good communication and interpersonal skills\n Proactive, reliable, and able to work independently\n Good attention to detail and a structured approach to work\n Good knowledge of Microsoft Office, particularly Excel, Word, PowerPoint, and Outlook\n Comfortable working with digital tools, HR systems, and recruitment platforms\n Previous experience in an international or multicultural environment is an advantage\n \n\n What we offer Hands-on experience across HR, recruitment, and people-related activities \n The opportunity to work closely with an experienced HR team\n An international and collaborative working environment\n Flexible working hours compatible with your studies\n Opportunity to develop your professional skills and HR career\n Practical, first-hand experience in the HR field which is of great benefit to future career choices and development \n \n\n Contact Us If you are interested in this position, please send us your CV in English via the application link.\n Find more English Speaking Jobs in Germany on Arbeitnow",
+   "tags": [
+    "recruitment",
+    "HR"
+   ]
+  },
+  {
+   "id": "f10bf8c97e0c2345",
+   "title": "Senior People & Talent Operations Partner",
+   "company": "TestGorilla",
+   "location": "Remote",
+   "remote": true,
+   "office": false,
+   "relocate": false,
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378",
+   "source": "remoteok",
+   "posted_at": "2026-09-10",
+   "salary": {
+    "min": 70000,
+    "max": 80000,
+    "currency": "USD",
+    "source": "remoteok"
+   },
+   "description": "â¡ This one's going to move fast. We're expecting a lot of interest, so we're running this as a focused hiring sprint. Applications and assessments close September 20, with interviews happening over the two weeks after that.Â \n ð Where do we hire from? Almost everywhere. Check that your country appears on this page . For this role, you'll have at least 4 hours daily overlap with your UK-based manager.\n Hi there, I'm Olive Turon, Head of People & Culture at TestGorilla. I'm excited to share more about the Senior People & Talent Operations Partner role and our team.\n About TestGorilla\n At TestGorilla, we're on a mission to place 1 billion people in their dream jobs. To democratize opportunity, we're building the world's leading skills-based talent discovery platform - one that replaces reliance on resumes with scientific validation of what people can truly do.\n Founded as a 100% remote company in 2020, our global team is united by high standards, a lot of heart, and a relentless drive to conquer new technological frontiers. We're all AI-fluent builders who care deeply about replacing bias with fairness.\n After empowering thousands of companies to hire smarter and faster, we're now unlocking the next phase of our scale-up journey - where you'll play an instrumental role in creating a world where skills matter most!\n About the role\n As our Senior People & Talent Operations Partner, you'll own People Ops as a product: the systems, compliance, and self-serve workflows that let most of People & Culture run itself day to day, plus the tooling behind how we hire. You'll join a lean, two-person team, working directly with me, with proper and lasting ownership from day one.Â \n Payroll, compliance, and HR systems across every (35, currently!) country we operate in are foundational elements of this role. Just as critically, you'll build and own the AI/automation and self-serve layer that keeps our People function lean, bringing a product mindset to everything you touch.Â  Letâs face it: weâre a scale-up, so youâll also need to be happy wearing other People hats when the moment requires.\n We're looking for someone autonomous, opinionated and candid, who'll tell me when I've got it wrong. You'll be dealing with real people and real problems, so you'll need to stay empathic but boundaried, structured and organized even when the pace picks up.\n Iâm biased, but I think itâs a dream job: this is an HR role in an HRTech company changing the world of work for the better, weâll have immense amounts of fun, thereâs plenty of uncharted territory for you to make your own, and Iâm committed to helping you to do the best work of your life.\n A quick check: if you've never built objectively clever automations (not just used one someone else built), this probably isn't the role for you. Automation is just that central to the job.\n Responsibilities\n In this role, your responsibilities will include:\n Upholding TestGorilla's behaviors and fostering an inclusive, supportive culture.\n\n Designing, building and maintaining a smart, automated and AI-enabled people journey - from pre-boarding to off-boarding - that frees up capacity for bespoke, white-glove treatment where it matters\n\n Being the technical owner and orchestrator of our HR tech stack: evaluating and enhancing it, ensuring these tools are not siloed but unified and integrated.\n\n Owning the non-Finance side of payroll, invoicing, contract administration, and compliance end to end, across every country we operate in.\n\n Owning data privacy and recordkeeping, and the day-to-day relationship with our EOR vendor.\n\n Owning configuration and troubleshooting of our hiring tooling, so hiring managers can run their own searches independently.\n\n Owning the documentation that makes self-serve actually work in practice, ensuring that itâs structured in a way that is easily accessible to both humans and P&C AI agents.Â \n\n Working with me to maintain a clean line between what's self-serve and what needs a person. We do not aspire to automate our entire People journey here.Â \n\n What you'll bring\n We're looking for someone who:\n Is passionate about TestGorilla's mission to help one billion people find their dream jobs.\n\n Has excellent written and verbal communication skills in English.\n\n Has built and owned sophisticated automations (Zapier, n8n, Make.com, and the like) as a core part of an integrated HR tech stack, not just used AI tools day to day. Arguably the most important thing on this list.\n\n Has managed payroll, compliance, or HR operations across multiple countries, ideally through an Employer of Record or a mix of EOR and direct entities.\n\n Has deep, hands-on HRIS experience. HiBob experience is a big plus, and so is experience assessing or migrating HR systems.\n\n Brings a product mindset: builds for the people who use them (employees and managers), listens to their feedback, and iterates rather than building in isolation.\n\n Thrives in a high-autonomy, async-first, re",
+   "tags": [
+    "Senior",
+    "AI",
+    "Remote"
+   ]
+  },
   {
    "id": "ff235d8a9b4b3c04",
    "title": "Werkstudent (m/w/d) HR Hiring - Recruiting / Screening / Personalvermittlung - Talent Sourcing & Talent Acquisition",
@@ -235,30 +348,6 @@
    "tags": [
     "Remote",
     "HR"
-   ]
-  },
-  {
-   "id": "f10bf8c97e0c2345",
-   "title": "Senior People & Talent Operations Partner",
-   "company": "TestGorilla",
-   "location": "Remote",
-   "remote": true,
-   "office": false,
-   "relocate": false,
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378",
-   "source": "remoteok",
-   "posted_at": "2026-09-10",
-   "salary": {
-    "min": 70000,
-    "max": 80000,
-    "currency": "USD",
-    "source": "remoteok"
-   },
-   "description": "â¡ This one's going to move fast. We're expecting a lot of interest, so we're running this as a focused hiring sprint. Applications and assessments close September 20, with interviews happening over the two weeks after that.Â \n ð Where do we hire from? Almost everywhere. Check that your country appears on this page . For this role, you'll have at least 4 hours daily overlap with your UK-based manager.\n Hi there, I'm Olive Turon, Head of People & Culture at TestGorilla. I'm excited to share more about the Senior People & Talent Operations Partner role and our team.\n About TestGorilla\n At TestGorilla, we're on a mission to place 1 billion people in their dream jobs. To democratize opportunity, we're building the world's leading skills-based talent discovery platform - one that replaces reliance on resumes with scientific validation of what people can truly do.\n Founded as a 100% remote company in 2020, our global team is united by high standards, a lot of heart, and a relentless drive to conquer new technological frontiers. We're all AI-fluent builders who care deeply about replacing bias with fairness.\n After empowering thousands of companies to hire smarter and faster, we're now unlocking the next phase of our scale-up journey - where you'll play an instrumental role in creating a world where skills matter most!\n About the role\n As our Senior People & Talent Operations Partner, you'll own People Ops as a product: the systems, compliance, and self-serve workflows that let most of People & Culture run itself day to day, plus the tooling behind how we hire. You'll join a lean, two-person team, working directly with me, with proper and lasting ownership from day one.Â \n Payroll, compliance, and HR systems across every (35, currently!) country we operate in are foundational elements of this role. Just as critically, you'll build and own the AI/automation and self-serve layer that keeps our People function lean, bringing a product mindset to everything you touch.Â  Letâs face it: weâre a scale-up, so youâll also need to be happy wearing other People hats when the moment requires.\n We're looking for someone autonomous, opinionated and candid, who'll tell me when I've got it wrong. You'll be dealing with real people and real problems, so you'll need to stay empathic but boundaried, structured and organized even when the pace picks up.\n Iâm biased, but I think itâs a dream job: this is an HR role in an HRTech company changing the world of work for the better, weâll have immense amounts of fun, thereâs plenty of uncharted territory for you to make your own, and Iâm committed to helping you to do the best work of your life.\n A quick check: if you've never built objectively clever automations (not just used one someone else built), this probably isn't the role for you. Automation is just that central to the job.\n Responsibilities\n In this role, your responsibilities will include:\n Upholding TestGorilla's behaviors and fostering an inclusive, supportive culture.\n\n Designing, building and maintaining a smart, automated and AI-enabled people journey - from pre-boarding to off-boarding - that frees up capacity for bespoke, white-glove treatment where it matters\n\n Being the technical owner and orchestrator of our HR tech stack: evaluating and enhancing it, ensuring these tools are not siloed but unified and integrated.\n\n Owning the non-Finance side of payroll, invoicing, contract administration, and compliance end to end, across every country we operate in.\n\n Owning data privacy and recordkeeping, and the day-to-day relationship with our EOR vendor.\n\n Owning configuration and troubleshooting of our hiring tooling, so hiring managers can run their own searches independently.\n\n Owning the documentation that makes self-serve actually work in practice, ensuring that itâs structured in a way that is easily accessible to both humans and P&C AI agents.Â \n\n Working with me to maintain a clean line between what's self-serve and what needs a person. We do not aspire to automate our entire People journey here.Â \n\n What you'll bring\n We're looking for someone who:\n Is passionate about TestGorilla's mission to help one billion people find their dream jobs.\n\n Has excellent written and verbal communication skills in English.\n\n Has built and owned sophisticated automations (Zapier, n8n, Make.com, and the like) as a core part of an integrated HR tech stack, not just used AI tools day to day. Arguably the most important thing on this list.\n\n Has managed payroll, compliance, or HR operations across multiple countries, ideally through an Employer of Record or a mix of EOR and direct entities.\n\n Has deep, hands-on HRIS experience. HiBob experience is a big plus, and so is experience assessing or migrating HR systems.\n\n Brings a product mindset: builds for the people who use them (employees and managers), listens to their feedback, and iterates rather than building in isolation.\n\n Thrives in a high-autonomy, async-first, re",
-   "tags": [
-    "Senior",
-    "AI",
-    "Remote"
    ]
   },
   {
